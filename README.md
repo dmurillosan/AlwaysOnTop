@@ -1,6 +1,6 @@
-# AlwaysOnTop-AHK
+# AlwaysOnTop.exe
 
-AlwaysOnTop-AHK is a Windows utility that enables users to pin one or more application windows to stay in the foreground, regardless of other open applications. Built using AutoHotkey, this tool features customizable keyboard shortcuts, sound feedback, and tray notifications. It is ideal for multitasking, keeping reference material visible, or monitoring live windows without interruption.
+AlwaysOnTop is a Windows utility that enables users to pin one or more application windows to stay in the foreground, regardless of other open applications. Built using AutoHotkey, this tool features customizable keyboard shortcuts, sound feedback, and tray notifications. It is ideal for multitasking, keeping reference material visible, or monitoring live windows without interruption.
 
 ## Features
 
